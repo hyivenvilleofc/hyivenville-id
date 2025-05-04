@@ -81,9 +81,9 @@
 
     function chooseGroup(group) {
       if (group === 'princess') {
-        window.location.href = 'IDPrincess.html'; // ganti dengan halaman pertanyaan princess
+        window.location.href = 'https://hyivenvilleofc.github.io/princess-id/'; // ganti dengan halaman pertanyaan princess
       } else if (group === 'vampire') {
-        window.location.href = 'IDPrinceVampir.html'; // ganti dengan halaman pertanyaan vampire
+        window.location.href = 'https://hyivenvilleofc.github.io/prince-vampire-id/'; // ganti dengan halaman pertanyaan vampire
       }
     }
   </script>
