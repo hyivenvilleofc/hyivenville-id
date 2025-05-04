@@ -83,7 +83,7 @@
       if (group === 'princess') {
         window.location.href = 'IDPrincess.html'; // ganti dengan halaman pertanyaan princess
       } else if (group === 'vampire') {
-        window.location.href = 'IDPrinceVampire.html'; // ganti dengan halaman pertanyaan vampire
+        window.location.href = 'IDPrinceVampir.html'; // ganti dengan halaman pertanyaan vampire
       }
     }
   </script>
