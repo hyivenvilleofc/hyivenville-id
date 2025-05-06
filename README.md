@@ -68,8 +68,8 @@
   <div id="slide2" class="slide" style="background-image: url('https://i.imgur.com/uEDttLf.png');">
     <div class="centered">
       <div class="title">Kamu keturunan apa?</div>
-      <button class="btn" onclick="chooseGroup('princess')">Princess</button>
-      <button class="btn" onclick="chooseGroup('vampire')">Prince Vampire</button>
+      <button class="btn" onclick="chooseGroup('princess')">Witch</button>
+      <button class="btn" onclick="chooseGroup('vampire')">Dracula</button>
     </div>
 
   <!-- Script -->
@@ -81,9 +81,9 @@
 
     function chooseGroup(group) {
       if (group === 'princess') {
-        window.location.href = 'IDPrincess.html'; // ganti dengan halaman pertanyaan princess
+        window.location.href = 'IDWitch.html'; // ganti dengan halaman pertanyaan princess
       } else if (group === 'vampire') {
-        window.location.href = 'IDPrinceVampir.html'; // ganti dengan halaman pertanyaan vampire
+        window.location.href = 'IDDraculaHunter.html'; // ganti dengan halaman pertanyaan vampire
       }
     }
   </script>
